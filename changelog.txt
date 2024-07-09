@@ -1,3 +1,13 @@
+## CakeCraft Changelog (1.3.21)
+
+**Adição:**
+-Datapack Minecraft Explosion Rebuilder (Repara estragos feitos por creepers e possivelmente griefers no server)
+
+**Remoção:**
+-Creeper Overhaul (Incompatível com Minecraft Explosion Rebuilder por enquanto, como essas explosões estão sus, tem que ser assim)
+
+
+
 ## CakeCraft Changelog (1.3.2)
 
 **Adição:**
